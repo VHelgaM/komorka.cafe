@@ -1,0 +1,24 @@
+/* general */
+    :root {
+  font-size: 36px;
+  font-weight: 400;
+  font-family: "Montserrat Alternates", sans-serif;
+  color: black;
+  --button-hover-color: rgb(196, 68, 194);
+    }
+
+/* header */
+body header {
+  margin: auto;
+  height: 100vh;
+  max-height: 940px;
+  min-height: 880px;
+  max-width: 1920px;
+  background: url("https://s1.1zoom.me/big0/748/Christmas_Toys_460551.jpg") no-repeat;
+    background-size: cover;
+}
+h1 {
+    text-align: middle;
+    display: grid;
+    text-align: center  
+}
